@@ -40,11 +40,6 @@ public class MyAwsController {
 		student.setFirstName("Peter");
 		student.setLastName("Rocksteel");
 		students.add(student);
-		student = new Student();
-		student.setId(3);
-		student.setFirstName("Princess");
-		student.setLastName("Ante");
-		students.add(student);
 		
 		return students;
 	}
@@ -62,11 +57,7 @@ public class MyAwsController {
 		student.setFirstName("Peter");
 		student.setLastName("Rocksteel");
 		students.add(student);
-		student = new Student();
-		student.setId(3);
-		student.setFirstName("Princess");
-		student.setLastName("Ante");
-		students.add(student);
+		
 		
 		return students;
 	}
@@ -84,11 +75,7 @@ public class MyAwsController {
 		student.setFirstName("Peter");
 		student.setLastName("Rocksteel");
 		students.add(student);
-		student = new Student();
-		student.setId(3);
-		student.setFirstName("Princess");
-		student.setLastName("Ante");
-		students.add(student);
+		
 		
 		return students;
 	}
