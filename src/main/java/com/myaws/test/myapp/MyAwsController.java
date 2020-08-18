@@ -13,7 +13,7 @@ public class MyAwsController {
 
 	@GetMapping
 	public String getHome() {
-		return "This is my first deployment";
+		return "This is my first AWESOME deployment";
 	}
 	
 	@GetMapping("/student")
